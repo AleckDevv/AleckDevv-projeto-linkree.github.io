@@ -4,7 +4,7 @@ Este projeto é uma recriação simples da interface do Linktree, exibindo uma p
 
 ## Demonstração
 
-Você pode visualizar uma demonstração do projeto em [Link para a página ao vivo](https://seulink.com).
+Você pode visualizar uma demonstração do projeto em [Link para a página ao vivo](https://aleckdevv.github.io/AleckDevv-projeto-linkree.github.io/).
 
 ## Tecnologias Utilizadas
 
